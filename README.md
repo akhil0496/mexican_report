@@ -1,5 +1,7 @@
 # mexican_report
 
+This repository documents the process of extracting text from a PDF, cleaning it, passing it through an NLP pipeline, and presenting the results with graphs.
+
 ```STEP1```
 This script reads the government report, extracts, cleans and saves all the text so it can be analyzed in the next scripts.
 
@@ -7,5 +9,5 @@ This script reads the government report, extracts, cleans and saves all the text
 This script extracts features from the transcript txt file and saves them to .csv files so they can be used in any toolkit.
 
 ```STEP3```
-This script generates plots and insights that were used in the infographic.
+This script generates plots and insighs.
 
