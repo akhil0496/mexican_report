@@ -9,5 +9,5 @@ This script reads the government report, extracts, cleans and saves all the text
 This script extracts features from the transcript txt file and saves them to .csv files so they can be used in any toolkit.
 
 ```step3.py```
-This script generates plots and insighs.
+This script generates plots and insights.
 
