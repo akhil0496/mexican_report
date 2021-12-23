@@ -1,6 +1,5 @@
 """
-This script generates plots and insights that were used in the infographic.
-It is advised to only run one function at a time.
+This script generates plots and insights.
 """
 
 import geopandas
